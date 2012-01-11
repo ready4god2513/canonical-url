@@ -7,7 +7,7 @@ begin
     s.summary = %Q{Rails plugin to take advantage of the new Canonical URL support of search engines.}
     s.email = "michael@intridea.com"
     s.homepage = "http://github.com/mbleigh/canonical-url"
-    s.description = "TODO"
+    s.description = %q{Rails plugin to take advantage of the new Canonical URL support of search engines.}
     s.authors = ["Michael Bleigh"]
     s.files = FileList["[A-Z]*", "{lib,rails}/**/*"]
   end

@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Michael Bleigh"]
   s.date = %q{2009-02-13}
-  s.description = %q{TODO}
+  s.description = %q{Rails plugin to take advantage of the new Canonical URL support of search engines.}
   s.email = %q{michael@intridea.com}
   s.files = ["LICENSE", "Rakefile", "README.markdown", "VERSION.yml", "lib/canonical_url.rb", "lib/railtie.rb", "rails/init.rb"]
   s.has_rdoc = true
